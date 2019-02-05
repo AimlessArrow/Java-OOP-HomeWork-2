@@ -1,7 +1,7 @@
 package main;
 
 public class Board {
-	  Shape[] shapeArray = new Shape[4];
+	  private Shape[] shapeArray = new Shape[4];
 	  
 	  public Board() {}
 	  
